@@ -1,0 +1,7 @@
+.label{
+    display: flex;
+    align-items: center;
+}
+ :global .custome-select__indicator-separator {
+    display: none;
+}
